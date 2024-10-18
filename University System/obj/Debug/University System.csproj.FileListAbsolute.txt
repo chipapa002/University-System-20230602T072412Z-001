@@ -1,0 +1,88 @@
+C:\Users\umama\source\repos\University System\bin\Debug\University System.exe.config
+C:\Users\umama\source\repos\University System\bin\Debug\University System.exe
+C:\Users\umama\source\repos\University System\bin\Debug\University System.pdb
+C:\Users\umama\source\repos\University System\obj\Debug\University System.csproj.AssemblyReference.cache
+C:\Users\umama\source\repos\University System\obj\Debug\University System.csproj.SuggestedBindingRedirects.cache
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Properties.Resources.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University System.csproj.GenerateResource.cache
+C:\Users\umama\source\repos\University System\obj\Debug\University System.csproj.CoreCompileInputs.cache
+C:\Users\umama\source\repos\University System\obj\Debug\University System.exe
+C:\Users\umama\source\repos\University System\obj\Debug\University System.pdb
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.AdminLogin.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.StudentRegistration.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Admin_Instrac_Login.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.AdminDashboard.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.InstractorLogin.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.InstractorProfile.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Student_Profile.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.PasswordCreat.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Courses.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Departments.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Enrollments.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Profile.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Sections.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Students.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Student_Dashboard.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Apply.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Classes.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Insructor_Profile.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Login.resources
+C:\Users\umama\source\repos\University System\obj\Debug\University_System.Instructors.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\bin\Debug\University System.exe.config
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\bin\Debug\University System.exe
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\bin\Debug\University System.pdb
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.csproj.AssemblyReference.cache
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.AdminLogin.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Apply.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Classes.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Courses.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Departments.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Enrollments.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Login.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.StudentRegistration.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Admin_Instrac_Login.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.AdminDashboard.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.InstractorProfile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Insructor_Profile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Instructors.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.PasswordCreat.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Profile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Properties.Resources.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.InstractorLogin.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Sections.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Student_Dashboard.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Student_Profile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Students.resources
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.csproj.GenerateResource.cache
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.csproj.CoreCompileInputs.cache
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.exe
+C:\Users\Nndamulele\OneDrive\Desktop\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.pdb
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\bin\Debug\University System.exe.config
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\bin\Debug\University System.exe
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\bin\Debug\University System.pdb
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.csproj.AssemblyReference.cache
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.AdminLogin.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Apply.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Classes.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Courses.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Departments.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Enrollments.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Login.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.StudentRegistration.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Admin_Instrac_Login.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.AdminDashboard.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.InstractorProfile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Insructor_Profile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Instructors.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.PasswordCreat.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Profile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Properties.Resources.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.InstractorLogin.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Sections.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Student_Dashboard.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Student_Profile.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University_System.Students.resources
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.csproj.GenerateResource.cache
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.csproj.CoreCompileInputs.cache
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.exe
+C:\Users\Nndamulele\OneDrive\Desktop\projects\SQL\DEV2A_PROJECT\University System-20230602T072412Z-001\University System\obj\Debug\University System.pdb

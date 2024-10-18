@@ -1,0 +1,672 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|c:\\users\\nndamulele\\onedrive\\desktop\\projects\\sql\\dev2a_project\\university system-20230602t072412z-001\\university system\\apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\student dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:student dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\student dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:student dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\admin and instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:admin and instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\instractorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:instractorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\admin and instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:admin and instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\insructor profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:insructor profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\passwordcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:passwordcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\instructor dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:instructor dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\instructor dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:instructor dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\insructor profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:insructor profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\passwordcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:passwordcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\hashcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:hashcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF5E49C-FD16-49AE-82DB-B44BA628C519}|University System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Administrator.cs",
+              "RelativeToolTip": "Administrator.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apply.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Apply.cs",
+              "RelativeDocumentMoniker": "Apply.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Apply.cs [Design]",
+              "RelativeToolTip": "Apply.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:47:07.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Dashboard.cs",
+              "RelativeDocumentMoniker": "Student Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Dashboard.cs",
+              "RelativeDocumentMoniker": "Student Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Dashboard.cs",
+              "RelativeToolTip": "Student Dashboard.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Profile.cs",
+              "RelativeDocumentMoniker": "Profile.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Profile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Courses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Courses.cs",
+              "RelativeDocumentMoniker": "Courses.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Courses.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Courses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Administrator.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Administrator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Apply.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Apply.cs",
+              "RelativeDocumentMoniker": "Apply.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Apply.cs",
+              "RelativeToolTip": "Apply.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Students.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Students.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Students.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sections.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Sections.cs",
+              "RelativeDocumentMoniker": "Sections.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Sections.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Sections.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sections.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Sections.cs",
+              "RelativeDocumentMoniker": "Sections.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Sections.cs",
+              "RelativeToolTip": "Sections.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Instructors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Instructors.cs",
+              "RelativeDocumentMoniker": "Instructors.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Instructors.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Instructors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Classes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Classes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Classes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Instructors.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Instructors.cs",
+              "RelativeDocumentMoniker": "Instructors.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Instructors.cs",
+              "RelativeToolTip": "Instructors.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAkwJoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Registration.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin and Instructor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Admin and Instructor.cs",
+              "RelativeDocumentMoniker": "Admin and Instructor.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Admin and Instructor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Admin and Instructor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Registration.cs",
+              "RelativeToolTip": "Registration.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InstractorLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\InstractorLogin.cs",
+              "RelativeDocumentMoniker": "InstractorLogin.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\InstractorLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\InstractorLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enrollments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Enrollments.cs",
+              "RelativeDocumentMoniker": "Enrollments.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Enrollments.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Enrollments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Departments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Departments.cs",
+              "RelativeDocumentMoniker": "Departments.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Departments.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Departments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin and Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Admin and Instructor.cs",
+              "RelativeDocumentMoniker": "Admin and Instructor.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Admin and Instructor.cs",
+              "RelativeToolTip": "Admin and Instructor.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwEoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Insructor Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Insructor Profile.cs",
+              "RelativeDocumentMoniker": "Insructor Profile.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Insructor Profile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Insructor Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Profile.cs",
+              "RelativeDocumentMoniker": "Student Profile.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Student Profile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Student Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Classes.cs",
+              "RelativeToolTip": "Classes.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Courses.cs",
+              "RelativeDocumentMoniker": "Courses.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Courses.cs",
+              "RelativeToolTip": "Courses.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAYwHkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Profile.cs",
+              "RelativeDocumentMoniker": "Profile.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Profile.cs",
+              "RelativeToolTip": "Profile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PasswordCreat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\PasswordCreat.cs",
+              "RelativeDocumentMoniker": "PasswordCreat.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\PasswordCreat.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\PasswordCreat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Instructor Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Instructor Dashboard.cs",
+              "RelativeDocumentMoniker": "Instructor Dashboard.cs",
+              "ToolTip": "C:\\Users\\umama\\source\\repos\\University System\\Instructor Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\umama\\source\\repos\\University System\\Instructor Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Student Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Profile.cs",
+              "RelativeDocumentMoniker": "Student Profile.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Student Profile.cs",
+              "RelativeToolTip": "Student Profile.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Instructor Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Instructor Dashboard.cs",
+              "RelativeDocumentMoniker": "Instructor Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Instructor Dashboard.cs",
+              "RelativeToolTip": "Instructor Dashboard.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwDwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Insructor Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Insructor Profile.cs",
+              "RelativeDocumentMoniker": "Insructor Profile.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Insructor Profile.cs",
+              "RelativeToolTip": "Insructor Profile.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAswHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-18T23:47:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Departments.cs",
+              "RelativeDocumentMoniker": "Departments.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Departments.cs",
+              "RelativeToolTip": "Departments.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Enrollments.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Enrollments.cs",
+              "RelativeDocumentMoniker": "Enrollments.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Enrollments.cs",
+              "RelativeToolTip": "Enrollments.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB4AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\AdminLogin.cs",
+              "RelativeToolTip": "AdminLogin.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Students.cs",
+              "RelativeToolTip": "Students.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PasswordCreat.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\PasswordCreat.cs",
+              "RelativeDocumentMoniker": "PasswordCreat.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\PasswordCreat.cs",
+              "RelativeToolTip": "PasswordCreat.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-18T23:47:07.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HashCode.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\HashCode.cs",
+              "RelativeDocumentMoniker": "HashCode.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\HashCode.cs",
+              "RelativeToolTip": "HashCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:47:07.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Login.resx",
+              "RelativeDocumentMoniker": "Login.resx",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Login.resx",
+              "RelativeToolTip": "Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-18T23:47:07.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nndamulele\\OneDrive\\Desktop\\projects\\SQL\\DEV2A_PROJECT\\University System-20230602T072412Z-001\\University System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:47:07.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
